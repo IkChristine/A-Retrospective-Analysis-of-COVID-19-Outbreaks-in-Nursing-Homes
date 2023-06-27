@@ -8,11 +8,9 @@ This project utilizes Nursing Home COVID-19 Public surveillance data to investig
 
 In-depth analysis was implemented using Excel and SQL (PostgreSQL)
 
-## Dataeset
+## Dataset
 
 Source: CMS data portal
-![image](https://github.com/IkChristine/A-Retrospective-Analysis-of-COVID-19-Outbreaks-in-Nursing-Homes/assets/104997783/5ddbea54-3bc3-457f-b1dc-5b40f73852ce)
-
 
 The dataset explored contained individual records from various certified Medicare and Medicaid skilled long term care providers across US states, including hospitals and rehabilitation centers, providing care for the elderly population. The dataset was collected on a weekly basis between 03/17/2020 – 05/28/2023 including retrospective data dating back to 01/01/2020, and reported to the CDC’s National Healthcare Safety Network (NHSN) Long Term Care Facility (LTCF) COVID-19 Module: Surveillance Reporting Pathways and COVID-19 Vaccinations. 
 Specific variables extracted from the dataset to be analyzed included information on COVID-19 case numbers, recovery rates, mortality rates, across the various providers in all US states. 
