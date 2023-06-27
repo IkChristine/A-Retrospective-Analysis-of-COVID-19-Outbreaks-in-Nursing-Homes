@@ -34,6 +34,7 @@ Source: [CMS data portal](https://data.cms.gov/covid-19/covid-19-nursing-home-da
 ![image](https://github.com/IkChristine/A-Retrospective-Analysis-of-COVID-19-Outbreaks-in-Nursing-Homes/assets/104997783/5cd3222f-b1c2-43b6-920e-4eace9aac3e9)
 
 
+## Conclusion
 * Understanding the impact of the seasonal signals in COVID-19 transmission is critical to planning for public health interventions, helping public Health policy officials know when to expand healthcare capacities in preparation for high demand for healthcare resources in the colder seasons. 
 * Continuous collaboration between the Federal, state and local health officials is critical. This would enable improved implementation of site visits to facilities with high mortality rates and low vaccination rates to better understand the facilities’ conditions influencing the disease transmission and high mortality rates. Such visits would also help officials identify probable social, cultural or religious factors that could be affecting the low vaccination rates in among residents. 
 * Continuous assessment and evaluation of how resources are allocated including medical personnel, physical and mental health center options, and vaccine availability, is critical especially in the states with high rates of infections, high mortality and low vaccination rates.
