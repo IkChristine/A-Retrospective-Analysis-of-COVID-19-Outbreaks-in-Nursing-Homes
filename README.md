@@ -31,10 +31,13 @@ Source: [CMS data portal](https://data.cms.gov/covid-19/covid-19-nursing-home-da
 ![image](https://github.com/IkChristine/A-Retrospective-Analysis-of-COVID-19-Outbreaks-in-Nursing-Homes/assets/104997783/36cd39d1-2149-48b2-80e1-d2dd7cf7cf40)
 
 
+![image](https://github.com/IkChristine/A-Retrospective-Analysis-of-COVID-19-Outbreaks-in-Nursing-Homes/assets/104997783/b0418c48-1bcd-42d7-af16-a2ca00d02b3d)
+
+
 ![image](https://github.com/IkChristine/A-Retrospective-Analysis-of-COVID-19-Outbreaks-in-Nursing-Homes/assets/104997783/d93f7f3e-1287-4e7c-96ba-f6a054d409be)
 
 
-![image](https://github.com/IkChristine/A-Retrospective-Analysis-of-COVID-19-Outbreaks-in-Nursing-Homes/assets/104997783/b0418c48-1bcd-42d7-af16-a2ca00d02b3d)
+
 
 
 ## Conclusion
