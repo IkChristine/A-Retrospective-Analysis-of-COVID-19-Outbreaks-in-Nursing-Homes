@@ -25,13 +25,16 @@ Source: [CMS data portal](https://data.cms.gov/covid-19/covid-19-nursing-home-da
 
 ## Analysis Highlights
 
-![image](https://github.com/IkChristine/A-Retrospective-Analysis-of-COVID-19-Outbreaks-in-Nursing-Homes/assets/104997783/8ad2e71b-4395-498b-9144-e19f37d61661)
+![image](https://github.com/IkChristine/A-Retrospective-Analysis-of-COVID-19-Outbreaks-in-Nursing-Homes/assets/104997783/b67c785c-0021-4926-9d79-2d422a602745)
 
-![image](https://github.com/IkChristine/A-Retrospective-Analysis-of-COVID-19-Outbreaks-in-Nursing-Homes/assets/104997783/afb738d7-55e0-4c8e-ab3d-600f14f0f29a)
 
-![image](https://github.com/IkChristine/A-Retrospective-Analysis-of-COVID-19-Outbreaks-in-Nursing-Homes/assets/104997783/253df7a2-0012-46ab-bf15-a5b109167840)
+![image](https://github.com/IkChristine/A-Retrospective-Analysis-of-COVID-19-Outbreaks-in-Nursing-Homes/assets/104997783/36cd39d1-2149-48b2-80e1-d2dd7cf7cf40)
 
-![image](https://github.com/IkChristine/A-Retrospective-Analysis-of-COVID-19-Outbreaks-in-Nursing-Homes/assets/104997783/5cd3222f-b1c2-43b6-920e-4eace9aac3e9)
+
+![image](https://github.com/IkChristine/A-Retrospective-Analysis-of-COVID-19-Outbreaks-in-Nursing-Homes/assets/104997783/d93f7f3e-1287-4e7c-96ba-f6a054d409be)
+
+
+![image](https://github.com/IkChristine/A-Retrospective-Analysis-of-COVID-19-Outbreaks-in-Nursing-Homes/assets/104997783/b0418c48-1bcd-42d7-af16-a2ca00d02b3d)
 
 
 ## Conclusion
